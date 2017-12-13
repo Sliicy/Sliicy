@@ -1,5 +1,7 @@
-<img src="logo.png" width=150 align=right>
 # Sliicy
+
+<img src="logo.png" width=150 align=right>
+
 Sliicy is an attempt to create an original encryption algorithm.
 
 ## The problem
