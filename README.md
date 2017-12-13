@@ -69,7 +69,7 @@ Anyone who can help find mistakes or suggest words to be added to the wordlist w
 Icons and images in this work is copyrighted. The code is not yet available for the public. License is GNU AGPLv3.
 
 ## Acknowledgements
-[Hashem](http://www.simpletoremember.com/articles/a/seven-laws-of-noah/) for helping me ***THE ENTIRE TIME***!!!
+[Hashem](http://www.simpletoremember.com/articles/a/seven-laws-of-noah/) for helping me.
 
 [Google 10000](https://github.com/first20hours/google-10000-english) helped generate thousands of words.
 
