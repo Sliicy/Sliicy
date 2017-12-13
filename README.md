@@ -1,7 +1,7 @@
-## Sliicy
+<img src="logo.png" width=150 align=right>
+# Sliicy
 Sliicy is an attempt to create an original encryption algorithm.
 
-<img src="logo.png" width=150 align=right>
 ## The problem
 
 Nearly all encryption standards share a common problem: with enough time or processing, [**any** encryption will be broken](https://www.smithandcrown.com/8655/).
