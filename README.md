@@ -1,4 +1,4 @@
-# Sliicy
+## Sliicy
 Sliicy is an attempt to create an original encryption algorithm.
 
 <img src="logo.png" width=150 align=right>
