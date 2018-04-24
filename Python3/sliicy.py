@@ -122,7 +122,7 @@ def clearScreen():
 
 # The main Sliicy funtion:
 def sliicy(command, user, password, message = None, friendName = None, newPassword = None, readMode = False):
-    messagebox.showinfo(command, 'user:' + user + '\npassword:' + password +'\nmessage:' + str(message) + '\nfriendName:' + str(friendName) + '\nnewPassword:' + str(newPassword) + '\nreadMode:' + str(readMode))
+    
     # The main wordlist that will hold all the words together (from the contact file's dictionary). Both wordList1 and wordList2 are 2D lists:
     wordList1 = []
     
@@ -1296,8 +1296,6 @@ def sliicy(command, user, password, message = None, friendName = None, newPasswo
         # Print how long encryption took:
         print(bcolors.OKBLUE + 'Encryption took ' + bcolors.OKGREEN + bcolors.BOLD + str(round(timeit.default_timer() - start_time, 2)) + bcolors.ENDC + bcolors.OKBLUE + ' seconds to complete.\n' + copiedStatus + bcolors.ENDC)
         
-        messagebox.showinfo('STOPSTOPSTOP', 'STOPSTOPSTOP')
-        messagebox.showinfo('STOPSTOPSTOP', 'STOPSTOPSTOP')
         if not readMode:
             if command.lower() == 'decrypt':
                 output2 = re.split(r'[ ~`!@#$%^&*()_=+,.<>/?;:"{}\|\n\[|\]]+', phrase)
