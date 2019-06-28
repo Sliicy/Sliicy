@@ -1,0 +1,25 @@
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Debug\Sliicy.exe.config
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Debug\Sliicy.exe
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Debug\Sliicy.pdb
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Debug\Sliicy.xml
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.vbprojResolveAssemblyReference.cache
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.Form1.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.Resources.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.vbproj.GenerateResource.Cache
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.exe
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.xml
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Debug\Sliicy.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Debug\Sliicy.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Debug\Sliicy.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Debug\Sliicy.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.ChangePassword.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.Login.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.Main.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.NewContact.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.OutputForm.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Debug\Sliicy.vbprojAssemblyReference.cache

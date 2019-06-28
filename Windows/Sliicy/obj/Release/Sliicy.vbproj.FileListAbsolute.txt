@@ -1,0 +1,41 @@
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Release\Sliicy.exe.config
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Release\Sliicy.exe
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\bin\Release\Sliicy.pdb
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.Resources.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.vbproj.GenerateResource.Cache
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.exe
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.pdb
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.Login.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.Main.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.NewContact.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.ChangePassword.resources
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.vbprojResolveAssemblyReference.cache
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.OutputForm.resources
+E:\Sliicy\Sliicy\bin\Release\Sliicy.exe.config
+E:\Sliicy\Sliicy\bin\Release\Sliicy.exe
+E:\Sliicy\Sliicy\bin\Release\Sliicy.pdb
+E:\Sliicy\Sliicy\obj\Release\Sliicy.vbprojResolveAssemblyReference.cache
+E:\Sliicy\Sliicy\obj\Release\Sliicy.ChangePassword.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.Login.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.Main.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.Resources.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.NewContact.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.OutputForm.resources
+E:\Sliicy\Sliicy\obj\Release\Sliicy.vbproj.GenerateResource.Cache
+E:\Sliicy\Sliicy\obj\Release\Sliicy.exe
+E:\Sliicy\Sliicy\obj\Release\Sliicy.pdb
+\\VBOXSVR\VirtualBox_Folder\Sliicy\Sliicy\obj\Release\Sliicy.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Release\Sliicy.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Release\Sliicy.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\bin\Release\Sliicy.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.ChangePassword.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.Login.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.Main.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.NewContact.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.OutputForm.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Sliicy\Sliicy VB.NET\Sliicy\obj\Release\Sliicy.vbprojAssemblyReference.cache
