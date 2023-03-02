@@ -75,7 +75,3 @@ The full steps can be read in the Documentation.
 Anyone who can help find mistakes or suggest words to be added to the wordlists is crucial to the encryption.
 
 Help is needed to translate this project into other languages.
-
-I look forward to people trying to test the included program and break it. Comments are welcome.
-
-Offering a reward for anyone who breaks the encryption.
